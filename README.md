@@ -1,7 +1,8 @@
 # aleksejcupic
 # 💫 About Me:
-I’m currently working on self-led projects and freelancing<br><br>I graduated from Boston College with a Bachelor's of Science in Computer Science and Mathematics and have worked in the financial services sector as a backend software engineer for the past 2 years.
+I’m currently working on self-led projects and freelancing<br><br>I graduated from Boston College with a Bachelor's of Science in Computer Science and Mathematics and have worked in the financial services sector to improve and maintain a portfolio management system for hedge funds as a backend software engineer for the past 2 years. 
 
+I have the most experience in C#, .NET, and SQL
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksejcupic) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aleksejc) 
