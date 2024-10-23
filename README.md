@@ -1,6 +1,6 @@
 # aleksejcupic
 # 💫 About Me:
-I’m currently working on self-led projects and freelancing<br><br>I graduated from Boston College with a Bachelor's of Science in Computer Science and Mathematics and have worked in FinTech as a back-end software engineer for the last 2 years.
+I’m currently working on self-led projects and freelancing<br><br>I graduated from Boston College with a Bachelor's of Science in Computer Science and Mathematics and have worked in the financial services sector as a backend software engineer for the past 2 years.
 
 
 ## 🌐 Socials:
