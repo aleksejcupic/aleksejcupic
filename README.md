@@ -1,4 +1,3 @@
-# aleksejcupic
 # 💫 About Me:
 I graduated from Boston College with a Bachelor's of Science in Computer Science and Mathematics and have worked in the financial services sector to improve and maintain a portfolio management system for hedge funds as a backend software engineer for the past 2 years. 
 
