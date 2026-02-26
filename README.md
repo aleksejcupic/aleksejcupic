@@ -1,7 +1,7 @@
 # 💫 About Me:
-I graduated from Boston College with a Bachelor's of Science in Computer Science and Mathematics and have worked in the financial services sector to improve and maintain portfolio management systems for investment banks and hedge funds as a backend software engineer for the past 3 years. 
+I graduated from Boston College with a Bachelor's of Science in Computer Science and Mathematics and have worked in the financial services sector to improve and maintain portfolio management/valudation systems for investment banks and hedge funds as a backend software engineer for the past 4 years. 
 
-I have the most experience in C#, .NET, and SQL
+I have the most experience in C#, .NET, SQL, and Angular
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksejcupic) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17979718/aleksejc) 
