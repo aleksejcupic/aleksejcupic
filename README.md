@@ -1,10 +1,14 @@
 # 💫 About Me:
 Software Engineer | .NET, Azure, Angular
+
 Building financial data systems, ETL pipelines, and cloud-native architectures.
+
 4 years in investment banking & hedge fund infrastructure.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksejcupic) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17979718/aleksejc) 
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
