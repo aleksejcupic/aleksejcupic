@@ -30,6 +30,12 @@ Docker-based self-hosted infrastructure: AdGuard Home, Paperless-ngx, Portainer,
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=aleksejcupic&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
 ![](https://streak-stats.demolab.com/?user=aleksejcupic&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aleksejcupic&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
