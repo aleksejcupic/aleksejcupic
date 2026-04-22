@@ -9,13 +9,13 @@
 
 ## 🔧 Featured Work
 
-### [Genealogy Viewer](https://aleksejcupic.com)
+### [Genealogy Viewer](https://ged-view.com)
 <!-- replace link above with actual demo URL when ready -->
 Custom-built GEDCOM file parser and interactive family tree viewer. Features dynamic tree rendering, searchable data grid, profile pages, gallery, calendar, and archival source tools.
 
 `Angular` `TypeScript` `AWS S3` `CloudFront` `Lambda`
 
-### [EfDataRebuilder](https://github.com/aleksejcupic/EfDataRebuilder) `coming soon`
+### [EfDataRebuilder](https://aleksejcupic.com) `coming soon`
 Reflection-based NuGet package that detects and reconstructs missing versioned records in Entity Framework projects. Automatically identifies gaps caused by versioning strategy changes across multi-table entities and rebuilds the audit trail using timestamp analysis.
 
 `C#` `.NET` `Entity Framework` `Reflection` `NuGet`
