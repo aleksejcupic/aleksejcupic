@@ -21,4 +21,4 @@ I’m currently working on self-led projects and freelancing<br><br>I graduated 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aleksejcupic&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksejcupic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
