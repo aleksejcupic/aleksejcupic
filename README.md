@@ -53,13 +53,13 @@ exercise premium, and a full Greeks visualizer. (Streamlit app — please wake u
 ### [Portfolio Optimizer](https://portfolio-optimizer-cupic.streamlit.app/)
 Markowitz mean-variance portfolio optimization with efficient frontier visualization. Input any
 set of tickers to find the allocation that maximizes risk-adjusted return, with a tangency
-(max Sharpe) portfolio and equal-weight benchmark comparison.
+(max Sharpe) portfolio and equal-weight benchmark comparison. (Steamlit app. Please wake up app if necessary)
 
 `Python` `NumPy` `SciPy` `Pandas` `Matplotlib` `Streamlit`
 
-### Audit Trail & Version Reconstruction
+### Audit Trail & Version Reconstruction (NuGet package coming soon)
 Dynamic audit trail algorithm and Entity Framework database context built as a modular
-microservice at Accordia Group. Detects and reconstructs lost or inconsistent versioned records
+microservice. Detects and reconstructs lost or inconsistent versioned records
 across relational databases using reflection and timestamp analysis, with zero project-specific
 configuration.
 
