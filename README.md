@@ -19,9 +19,12 @@ to shipping and operating full products solo.
 ## 🔧 Featured Work
 
 ### [GEDCOM Genealogy Viewer](https://ged-view.com)
-Custom-built GEDCOM file parser and interactive family tree viewer. Features dynamic tree rendering, searchable data grid, profile pages, gallery, calendar, and archival source tools.
+Browser-based genealogy viewer with a custom-built GEDCOM parser, processing files entirely
+client-side. 13+ views spanning family trees, searchable data grid, profile pages, photo
+gallery, timeline, calendar, interactive map, and archive. Imports directly from Ancestry,
+MyHeritage, FamilySearch, RootsMagic, Gramps, and WikiTree.
 
-`Angular` `TypeScript` `AWS S3` `CloudFront` `Lambda`
+`Angular` `TypeScript` `AWS S3` `CloudFront` `Lambda` `GitHub Actions`
 
 ### Quantitative finance library ([NuGet](https://www.nuget.org/packages/Aleksej.Finance/) · [source](https://github.com/aleksejcupic/aleksej-finance))
 180+ pure-math, zero-dependency methods: options pricing & Greeks (Black-Scholes,
@@ -41,19 +44,26 @@ coverage. Built and released via GitHub Actions.
 `C#` `.NET` `ExcelDNA` `GitHub Actions`
 
 ### [Options Pricing](https://options-pricing-cupic.streamlit.app/)
-LSM and Black-Scholes option pricer with interactive Greeks visualizer. (Steamlit app. Please wake up app if necessary)
+American and European option pricing in one interactive app. LSM (Longstaff-Schwartz 2001) for
+American options, Black-Scholes for European options, side-by-side comparison with early
+exercise premium, and a full Greeks visualizer. (Streamlit app — please wake up app if necessary)
 
-`Python` `Streamlit`
+`Python` `NumPy` `Pandas` `SciPy` `Statsmodels` `Streamlit`
 
-### Portfolio Valuation Service
-Azure-native rewrite of a legacy valuation platform with Excel add-in built on ExcelDNA.
+### [Portfolio Optimizer](https://portfolio-optimizer-cupic.streamlit.app/)
+Markowitz mean-variance portfolio optimization with efficient frontier visualization. Input any
+set of tickers to find the allocation that maximizes risk-adjusted return, with a tangency
+(max Sharpe) portfolio and equal-weight benchmark comparison.
 
-`C#` `.NET` `Azure` `ExcelDNA`
+`Python` `NumPy` `SciPy` `Pandas` `Matplotlib` `Streamlit`
 
-### [EfDataRebuilder](https://aleksejcupic.com) `coming soon`
-Reflection-based NuGet package that detects and reconstructs missing versioned records in Entity Framework projects. Automatically identifies gaps caused by versioning strategy changes across multi-table entities and rebuilds the audit trail using timestamp analysis.
+### Audit Trail & Version Reconstruction
+Dynamic audit trail algorithm and Entity Framework database context built as a modular
+microservice at Accordia Group. Detects and reconstructs lost or inconsistent versioned records
+across relational databases using reflection and timestamp analysis, with zero project-specific
+configuration.
 
-`C#` `.NET` `Entity Framework` `Reflection` `NuGet`
+`C#` `.NET` `Entity Framework` `Reflection` `SQL Server`
 
 ### [Home Server Stack](https://github.com/aleksejcupic/home-server-setup)
 Docker-based self-hosted infrastructure: AdGuard Home, Paperless-ngx, Portainer, Uptime Kuma, Speedtest Tracker, Plex, Jellyfin. Fully documented and reproducible.
