@@ -30,6 +30,8 @@ Garman-Kohlhagen, binomial, Monte Carlo/LSM, exotics), bonds & yield curves, der
 credit, Markowitz portfolio optimization, and risk metrics. Published to NuGet with full CI,
 unit tests, and code coverage.
 
+Over 100 downloads
+
 `C#` `.NET` `NuGet` `xUnit` `GitHub Actions`
 
 ### [Quantitative finance library Excel add-in](https://github.com/aleksejcupic/aleksej-finance-excel)
@@ -40,7 +42,7 @@ coverage. Built and released via GitHub Actions.
 `C#` `.NET` `ExcelDNA` `GitHub Actions`
 
 ### [Options Pricing](https://options-pricing-cupic.streamlit.app/)
-LSM and Black-Scholes option pricer with interactive Greeks visualizer.
+LSM and Black-Scholes option pricer with interactive Greeks visualizer. (Steamlit app. Please wake up app if necessary)
 
 `Python` `Streamlit`
 
