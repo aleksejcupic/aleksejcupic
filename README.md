@@ -29,7 +29,7 @@ Garman-Kohlhagen, binomial, Monte Carlo/LSM, exotics), bonds & yield curves, der
 credit, Markowitz portfolio optimization, and risk metrics. Published to NuGet with full CI,
 unit tests, and code coverage.
 
-Over 100 downloads
+Over 120 downloads
 
 `C#` `.NET` `NuGet` `xUnit` `GitHub Actions`
 
