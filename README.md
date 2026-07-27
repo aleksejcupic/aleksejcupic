@@ -1,8 +1,7 @@
-![Banner](./banner.svg)
+[![Banner](./banner.svg)](https://aleksejcupic.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aleksejcupic.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aleksejcupic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aleksejcupic-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksejcupic)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-aleksejc-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17979718/aleksejc)
 [![NuGet](https://img.shields.io/badge/NuGet-aleksejcupic-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/aleksejcupic)
 
 ---
