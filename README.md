@@ -9,7 +9,7 @@
 
 **Software Engineer · B.S. Computer Science + Mathematics (Boston College)**
 
-~4 years building C#/.NET + SQL systems at investment banks and hedge funds. Full-stack with
+4+ years building C#/.NET + SQL systems at investment banks and hedge funds. Full-stack with
 Angular (3 yrs), on AWS and Azure. Comfortable across the stack from trading-adjacent backends
 to shipping and operating full products solo.
 
